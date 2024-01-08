@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JoseWald
+- 👀 I’m  a computer science student but I'm especially interested in video game development 
