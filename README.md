@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @JoseWald
-- I'm new here in GitHub
-- 👀 I’m  a computer science student - I love everything about computer science but I'm especially interested in video game development 
+Programming is a journey not a destination.Take your time, enjoy your travel and go as far as you can 
+🍻
