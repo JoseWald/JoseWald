@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JoseWald</h1>
-<h3 align="center">C/C++/C# programmer | Unity game developer | Laravel/NodeJS back-end web developer</h3>
+<h3 align="center"> Unity game developer | Miror and Photon Multiplayer specialist</h3>
 
 - 🌱 I’m currently learning **DSA,CP, C++,OpenGL,Unity Engine**
 
